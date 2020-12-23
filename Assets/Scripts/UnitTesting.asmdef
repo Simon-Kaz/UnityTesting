@@ -1,0 +1,4 @@
+﻿{
+	"name": "UnitTesting",
+	"references": ["Unity.TextMeshPro"]
+}
